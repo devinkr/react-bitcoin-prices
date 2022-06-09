@@ -1,0 +1,19 @@
+Index
+  App
+    Home
+
+
+Component structure
+components
+  App
+    App.css
+    App.js
+  Currencies
+    Currencies.css
+    Currencies.js
+  Home
+    Home.css
+    Home.js
+  Price
+    Price.css
+    Price.js
